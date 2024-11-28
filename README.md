@@ -4,4 +4,6 @@
 
 A linux newbie, learning how to write kernel modules.
 
-This repository is for storing implementations of my assignments.
+This repo is for storing my assignments. Hope this will be helpful for you linux module beginners.
+
+This repo will become private since Mar. until Jul.
